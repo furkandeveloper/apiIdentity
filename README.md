@@ -1,2 +1,1 @@
-# apiIdentity
-.Net Core Web Api Identity and JWT Authentication
+# .Net Core Web Api Identity and JWT Authentication
