@@ -1,0 +1,14 @@
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\bin\Debug\netcoreapp2.1\WebLayer.deps.json
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\bin\Debug\netcoreapp2.1\WebLayer.runtimeconfig.json
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\bin\Debug\netcoreapp2.1\WebLayer.runtimeconfig.dev.json
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\bin\Debug\netcoreapp2.1\WebLayer.dll
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\bin\Debug\netcoreapp2.1\WebLayer.pdb
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.csprojAssemblyReference.cache
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.csproj.CoreCompileInputs.cache
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorAssemblyInfo.cache
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorAssemblyInfo.cs
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.AssemblyInfoInputs.cache
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.AssemblyInfo.cs
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.RazorTargetAssemblyInfo.cache
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.dll
+F:\githubRepo\webApiIdentity\webApiIdentity\WebLayer\obj\Debug\netcoreapp2.1\WebLayer.pdb
